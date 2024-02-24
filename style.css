@@ -284,7 +284,7 @@ footer {
 }
 
 .footer_copy {
-    width: 80vw;
+width: 80vw;
 border-top: 1px solid #2c2c2c;
 height: 40px;
 display: flex;
